@@ -1,7 +1,7 @@
 {
 
     "manifest_version": 2,
-    "name": "Borderify",
+    "name": "BlindFlix",
     "version": "1.0",
   
     "description": "Adds a red border to all webpages matching mozilla.org.",
@@ -12,7 +12,7 @@
   
     "content_scripts": [
       {
-        "matches": ["*://*.mozilla.org/*"],
+        "matches": ["*://*.netflix.com/*"],
         "js": ["borderify.js"]
       }
       
