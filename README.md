@@ -1,5 +1,5 @@
 # Netflix-Logger
-A logger for Netflix
+A scraper to download Audio from Netflix
 
 **How to download Audio**
 -From this endpoint:
