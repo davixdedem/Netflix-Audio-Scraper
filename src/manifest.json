@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Widevine Decryptor",
-  "short_name": "WidevineDecryptor",
-  "description": "Decrypts and logs media keys from websites that use Widevine DRM",
-  "version": "1.0.0",
+  "name": "Netflix Audio Scraper",
+  "short_name": "Netflix Audio Scraper",
+  "description": "Netflix Audio Scraper",
+  "version": "0.0.1",
   "permissions":
   [
 
