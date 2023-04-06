@@ -10,6 +10,7 @@ async function injectScripts()
     // await injectScript('content_key_decryption.js');
     // await injectScript('eme_interception.js');
     await injectScript('lib/cadmium-playercore-6.0039.582.911.js');
+    // await injectScript('lib/akiraClient.js.330fa72168f2bc5c9730.js');
 }
 
 function injectScript(scriptName) 
