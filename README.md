@@ -1,6 +1,14 @@
 # Netflix-Logger
 A scraper to download High Quality Audio from Netflix.
+This vulnerability has already been reported to bugcrowd.com at submit https://bugcrowd.com/submissions/59e26094-303f-4c40-ae73-f3dc46270370
 
+**How use it**
+1. Click "F12" to open console debugger.
+2. Filter for "Logs" only.
+3. Go to https://www.netflix.com/browse/genre/34399?so=az
+4. Injector will start to log all audio urls a json dicts with an'automatic scroll.
+
+![Screencast-from-13-04-2023-10-42-57](https://user-images.githubusercontent.com/94486728/231745882-4739c2fb-192f-4e15-9cdb-996cac0194f2.gif)
 **How to install**
 If you use Firefox, install the source as a debug extension.
 1. Clone repository.
@@ -16,15 +24,6 @@ If you use Google Chrome install the source as a debug extension.
 4. Select repository directory.
 
 ![Screenshot from 2023-04-13 13-16-22](https://user-images.githubusercontent.com/94486728/231742512-d13cccac-19f4-418e-8d13-0be90fe5b754.png)
-
-
-**How use it**
-1. Click "F12" to open console debugger.
-2. Filter for "Logs" only.
-3. Go to https://www.netflix.com/browse/genre/34399?so=az
-4. Injector will start to log all audio urls a json dicts with an'automatic scroll.
-![Screencast-from-13-04-2023-10-42-57](https://user-images.githubusercontent.com/94486728/231745882-4739c2fb-192f-4e15-9cdb-996cac0194f2.gif)
-
 
 **How to get movie title from audio**
 -Insert movieId to the url:
