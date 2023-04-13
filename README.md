@@ -14,7 +14,7 @@ If you use Google Chrome install the source as a debug extension.
 2. Click on "Load Temporary Add-on".
 3. Select repository directory.
 
-[Screenshot from 2023-04-13 13-16-22](https://user-images.githubusercontent.com/94486728/231742512-d13cccac-19f4-418e-8d13-0be90fe5b754.png)
+![Screenshot from 2023-04-13 13-16-22](https://user-images.githubusercontent.com/94486728/231742512-d13cccac-19f4-418e-8d13-0be90fe5b754.png)
 
 **How to get title from audio**
 -Insert movieId to the url:
