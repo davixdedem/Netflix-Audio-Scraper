@@ -1,6 +1,6 @@
 # Netflix-Logger
 A scraper to download High Quality Audio from Netflix.
-This vulnerability has already been reported to bugcrowd.com at submit https://bugcrowd.com/submissions/59e26094-303f-4c40-ae73-f3dc46270370
+This vulnerability has already been reported to bugcrowd.com at: https://bugcrowd.com/submissions/59e26094-303f-4c40-ae73-f3dc46270370
 
 **How use it**
 1. Click "F12" to open console debugger.
