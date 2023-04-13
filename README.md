@@ -22,9 +22,8 @@ If you use Google Chrome install the source as a debug extension.
 1. Click "F12" to open console debugger.
 2. Filter for "Logs" only.
 3. Go to https://www.netflix.com/browse/genre/34399?so=az
-4. Injector will start to log all audio urls as Json dict with an'automatic scroll.
-
-![Example video](https://user-images.githubusercontent.com/94486728/231744829-7f6e6419-a8b9-4f28-bda9-ace6c3f597d5.mp4)
+4. Injector will start to log all audio urls a json dicts with an'automatic scroll.
+![Screencast-from-13-04-2023-10-42-57](https://user-images.githubusercontent.com/94486728/231745882-4739c2fb-192f-4e15-9cdb-996cac0194f2.gif)
 
 
 **How to get movie title from audio**
